@@ -1,3 +1,3 @@
 # HS-Simulator-by-Py3
-Just for fun
-__author__ = 'barry2014'
+Just for fun! \n
+ __author__ = 'barry2014'
